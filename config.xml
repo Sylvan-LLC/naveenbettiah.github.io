@@ -83,9 +83,9 @@
         <allow-intent href="itms-apps:*" />
     </platform>
 	
-	<config-file platform="android" parent="/manifest" mode="delete">
+	<!--<config-file platform="android" parent="/manifest" mode="delete">
     	<uses-permission android:name="android.permission.RECORD_AUDIO" />
     	<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-	</config-file>
+	</config-file>-->
 
 </widget>
