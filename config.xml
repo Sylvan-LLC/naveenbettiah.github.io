@@ -24,7 +24,6 @@
     <!--
         Only build for needed platforms
     -->
-    <gap:platform name="ios" />
     <gap:platform name="android" />
 
     <!--
